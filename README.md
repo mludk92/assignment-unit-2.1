@@ -4,7 +4,7 @@ This week we introduced the programming language of the Internet, JavaScript. Wi
 
 ## Topics Covered
 * Variables and Constants
-* Conditional statements
+* Conditional statements 
 
 
 ## Assignment
